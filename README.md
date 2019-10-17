@@ -11,3 +11,6 @@ Sample scipt using nohup:
  nohup python -u train.py --datasetToTrain Twitter --levelOnHypernym ToRoot 2>&1 &
 
 Training will stop if validation is not improving for 5 consecutive times, model will be saved
+
+
+Only Twitter dataset is provided in ./dataset
