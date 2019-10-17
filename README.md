@@ -1,5 +1,9 @@
 # BiLSTM-Sentiment-Analysis
 
+NLP project
+Understanding the impact of hypernym on sentiment analysis
+this is the repo for a biLSTM implemented for the project
+
 Dataset naming is following [Dataset_Name][|-both|-root]-[train|valid|test].csv. For example, Twitter-root-train.csv is Twitter's training set while converting to root hypernym
 
 Unzip the code, in the code folder, create ./dataset folder and put all the dataset; create emtpy ./model folder for future saved final model
